@@ -1,7 +1,7 @@
 {
   "name": "story03",
-  "private": true,
-  "version": "1.0.4",
+  "private": false,
+  "version": "1.0.0",
   "type": "module",
   "files": ["dist","README.md"],
   "author": {
